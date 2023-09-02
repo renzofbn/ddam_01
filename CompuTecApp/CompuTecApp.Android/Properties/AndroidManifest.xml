@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.computecapp" android:installLocation="preferExternal">
-	<uses-sdk android:minSdkVersion="26" android:targetSdkVersion="33" />
-	<application android:label="CompuTecApp.Android" android:theme="@style/MainTheme"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.computec" android:installLocation="preferExternal">
+	<uses-sdk android:minSdkVersion="24" android:targetSdkVersion="33" />
+	<application android:label="CompuTec" android:theme="@style/MainTheme" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher"></application>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>
